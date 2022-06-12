@@ -7,7 +7,7 @@
 # 뭐하세요?
 이런! 잘 읽어보시지 않으셨군요! 저는 디스코드봇을 만들고 있습니다!\
 지금 [THELEMA](https://thelema.ggm.pw/)같은 봇을 만들고 있습니다! 말이 나온김에 초대해주세요!\
-[초대](https://discord.com/api/oauth2/authorize?client_id=945595127445979186&permissions=8&scope=bot)해주세요!
+[초대](https://discord.com/api/oauth2/authorize?client_id=945595127445979186&permissions=8&scope=bot)해주세요!\
 참고로 [THELEMA](https://thelema.ggm.pw/)는 유료봇이랍니다!
 
 # 궁금해요!
