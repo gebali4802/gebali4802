@@ -6,9 +6,9 @@
 
 # 뭐하세요?
 이런! 잘 읽어보시지 않으셨군요! 저는 디스코드봇을 만들고 있습니다!\
-지금 THELEMA같은 봇을 만들고 있습니다! 말이 나온김에 초대해주세요!\
-[초대하기](https://discord.com/api/oauth2/authorize?client_id=945595127445979186&permissions=8&scope=bot)\
-참고로 THELEMA는 유료봇이랍니다!
+지금 [THELEMA](https://thelema.ggm.pw/)같은 봇을 만들고 있습니다! 말이 나온김에 초대해주세요!\
+[초대](https://discord.com/api/oauth2/authorize?client_id=945595127445979186&permissions=8&scope=bot)해주세요!
+참고로 [THELEMA](https://thelema.ggm.pw/)는 유료봇이랍니다!
 
 # 궁금해요!
 저는 일단 개발툴로는 [비주얼 스튜디오 코드](https://code.visualstudio.com/)를 사용한답니다!\
