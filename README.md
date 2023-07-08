@@ -1,2 +1,2 @@
 ## Hello 👋, Im CR9
-### My discord pomelo is **earthhack**
+### I'm a developer coding in Python
