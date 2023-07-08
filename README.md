@@ -1,2 +1,2 @@
 ## Hello 👋, Im CR9
-### My discord pomelo: earthhack
+### My discord pomelo is **earthhack**
